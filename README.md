@@ -1,5 +1,5 @@
 # 15 Tile Project
-## By: Mark Ulicnik
+## By: Asad Khan
 
 # Installation
 
